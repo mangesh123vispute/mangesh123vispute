@@ -1,4 +1,6 @@
-![logo](https://github.com/mangesh123vispute/mangesh123vispute/blob/main/2.png)
+![logo](https://user-images.githubusercontent.com/112755002/198526982-d09cb91c-6802-440c-8488-bdab071abb47.png)
+
+
 <h1 align="center">Hi there, I'm Mangesh vispute</h1>
 <h3 align="center">A passionate blockchain developer from India.</h3>
 
