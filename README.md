@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/112755002/198526982-d09cb91c-6802-440c-8488-bdab071abb47.png)
+
 
 
 <h1 align="center">Hi there, I'm Mangesh vispute</h1>
