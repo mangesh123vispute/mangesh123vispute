@@ -1,6 +1,5 @@
 <h1 align="center">Hi there, I'm Mangesh vispute</h1>
 <h3 align="center">A passionate blockchain developer from India.</h3>
-<img align=”right” alt=”coding” width=”400” src=” ”>
 
 - 🔭 I’m currently working on [solidity(language)](https://github.com/mangesh123vispute/public-projects-1)
 
