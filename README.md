@@ -4,13 +4,13 @@
 <h1 align="center">Hi there, I'm Mangesh vispute</h1>
 <h3 align="center">A passionate blockchain developer from India.</h3>
 
-- 🔭 I’m currently working on [solidity(language)](https://github.com/mangesh123vispute/public-projects-1)
+- 🔭 I’m currently working on [Python(language)](https://github.com/mangesh123vispute/public-projects-1)
 
-- 🌱 I’m currently learning **Blockchain and Web3**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mangesh123vispute](https://github.com/mangesh123vispute)
 
-- 💬 Ask me about **Solidity**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **https://www.linkedin.com/in/mangesh-vispute-020532232/**
 
