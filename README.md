@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi there, I'm Mangesh vispute</h1>
-<h3 align="center">A passionate blockchain developer from India.</h3>
+<h3 align="center">A passionate Programmer from India.</h3>
 
 - 🔭 I’m currently working on [Python(language)](https://github.com/mangesh123vispute/public-projects-1)
 
