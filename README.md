@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mangesh123vispute&label=Profile%20views&color=0e75b6&style=flat" alt="mangesh123vispute" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img src="https://example.com/your_gif.gif" alt="Animated GIF">
 
 - 🔭 I’m currently working on [TaskDailyPro](https://github.com/mangesh123vispute/TaskDailyPro)
 
