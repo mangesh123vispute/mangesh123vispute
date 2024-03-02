@@ -3,15 +3,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mangesh123vispute&label=Profile%20views&color=0e75b6&style=flat" alt="mangesh123vispute" /> </p>
 
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Animated GIF">
+
 - 🔭 I’m currently working on [TaskDailyPro](https://github.com/mangesh123vispute/TaskDailyPro)
 
-- 🌱 I’m currently learning **TypeScript, Next.js**
+- 🌱 I’m currently learning *TypeScript, Next.js*
 
 - 👨‍💻 All of my projects are available at [https://github.com/mangesh123vispute](https://github.com/mangesh123vispute)
 
-- 💬 Ask me about **Mern stack, Django, python**
+- 💬 Ask me about *Mern stack, Django, python*
 
-- 📫 How to reach me **mangesh2003visptue@gmail.com**
+- 📫 How to reach me *mangesh2003visptue@gmail.com*
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1PvcgefdODWCgJOQlpbSRi8QZjV3Aa7UN/view?usp=drive_link](https://drive.google.com/file/d/1PvcgefdODWCgJOQlpbSRi8QZjV3Aa7UN/view?usp=drive_link)
 
