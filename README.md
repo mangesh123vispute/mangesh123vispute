@@ -23,7 +23,8 @@
 
 - 🔭 I’m currently working on
 [TaskDailyPro](https://github.com/mangesh123vispute/TaskDailyPro) 
-- 🌱 I’m currently learning *TypeScript, Next.js* - 👨‍💻 All of my projects are available at [https://github.com/mangesh123vispute](https://github.com/mangesh123vispute)
+- 🌱 I’m currently learning *TypeScript, Next.js*
+- 👨‍💻 All of my projects are available at [https://github.com/mangesh123vispute](https://github.com/mangesh123vispute)
 - 💬 Ask me about *Mern stack, Django, python*
 - 📫 How to reach me *mangesh2003visptue@gmail.com*
 - 📄 Know about my experiences [https://drive.google.com/file/d/1PvcgefdODWCgJOQlpbSRi8QZjV3Aa7UN/view?usp=drive_link(https://drive.google.com/file/d/1PvcgefdODWCgJOQlpbSRi8QZjV3Aa7UN/view?usp=drive_link)
