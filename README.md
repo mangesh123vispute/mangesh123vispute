@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mangesh123vispute&label=Profile%20views&color=0e75b6&style=flat" alt="mangesh123vispute" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<img src="[https://example.com/your_gif.gif](https://www.bing.com/images/search?view=detailV2&ccid=gReLR6hZ&id=95C8C764B738D4D1329EABEAC3FAC8E72B95CBE5&thid=OIP.gReLR6hZjwyBxHmfLN1AVwHaFj&mediaurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F2131993%2Fscreenshots%2F4948736%2Fthoughtworks-gif_dribbble.gif&exph=600&expw=800&q=computer+programmer+gif&simid=608035853601021944&form=IRPRST&ck=30D65EE52437BB6F4D394A16C4AD42D6&selectedindex=24&itb=0&ajaxhist=0&ajaxserp=0&vt=0)" alt="Animated GIF">
+<img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Animated GIF">
 
 - 🔭 I’m currently working on [TaskDailyPro](https://github.com/mangesh123vispute/TaskDailyPro)
 
