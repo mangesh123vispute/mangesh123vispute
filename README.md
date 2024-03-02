@@ -1,10 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mangesh Prashant vispute</h1>
 <h3 align="center">A passionate Mern Stack + Django developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mangesh123vispute&label=Profile%20views&color=0e75b6&style=flat" alt="mangesh123vispute" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mangesh123vispute" alt="mangesh123vispute" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
