@@ -16,7 +16,7 @@
       alt=""
   /></a>
 </p>
-<p align="left" style="border-radius: 10px;">
+<p align="left" >
 <img
   src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"
   alt="Animated GIF"
