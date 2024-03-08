@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Mangesh Prashant vispute</h1>
 <h3 align="center">A passionate Mern Stack and Django developer from India</h3>
 
@@ -16,14 +15,10 @@
       alt=""
   /></a>
 </p>
-<p align="left" >
 <img
   src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"
   alt="Animated GIF"
-  
 />
-</p>
-
 
 - 🔭 I’m currently working on
 [TaskDailyPro](https://github.com/mangesh123vispute/TaskDailyPro) 
