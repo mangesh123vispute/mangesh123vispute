@@ -19,7 +19,9 @@
 <img
   src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"
   alt="Animated GIF"
+  style="border-radius: 10px;"
 />
+
 
 - 🔭 I’m currently working on
 [TaskDailyPro](https://github.com/mangesh123vispute/TaskDailyPro) 
