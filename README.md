@@ -14,7 +14,7 @@
 - 👯 I’m Working as: [Python/Django developer](https://www.linkedin.com/company/skxywtf/)
 - 🤝 Experiences : [Full stack developer Intern at The Entrepreneurship Network](https://www.linkedin.com/company/the-entrepreneurship-network/)
 - 👨‍💻 All of my projects are available at: [https://github.com/mangesh123vispute](https://github.com/mangesh123vispute)
-- 💬 Ask me about: **Django, DRF, Python, Integration of LLM using LangChain**
+- 💬 Ask me about: **Django, DRF, Python, Integration of LLM using LangChain,Full Stack Development**
 - 📫 How to reach me: **mangesh2003visptue@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
