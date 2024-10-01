@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=mangesh123vispute&label=Profile%20views&color=0e75b6&style=flat" alt="mangesh123vispute" /> 
 </p>
 
-- 🔭 I’m currently working at: [SKXYWTF (World Trade factory)](https://www.linkedin.com/company/skxywtf/)
+
 - 🌱 I’m currently learning: **LangChain and DSA in Python**
 - 👯 I’m Working as: [Python/Django developer](https://www.linkedin.com/company/skxywtf/)
 - 🤝 Experiences : [Full stack developer Intern at The Entrepreneurship Network](https://www.linkedin.com/company/the-entrepreneurship-network/)
