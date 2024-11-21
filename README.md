@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQEovZDKQcFkXg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1713753982209?e=1727913600&v=beta&t=9qpcv7O6iLR7Y9uhVlwmWIFtBow0TRBbnlbG-zUeMEk" alt="Thumbnail" style="width: 100%; max-width: 300px; height: auto;" />
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQEovZDKQcFkXg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1713753982209?e=1737590400&v=beta&t=MbRxgafnapO6rL2Hv5ZXB8ixjgBT6zVAzRSDLYZiZSs" alt="Thumbnail" style="width: 100%; max-width: 300px; height: auto;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mangesh Prashant Vispute</h1>
