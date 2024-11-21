@@ -15,12 +15,15 @@
 </p>
 
 
-- 🌱 I’m currently learning: **LangChain and DSA in Python**
-- 👯 I’m Working as: [Python/Django developer](https://www.linkedin.com/company/skxywtf/)
-- 🤝 Experiences : [Full stack developer Intern at The Entrepreneurship Network](https://www.linkedin.com/company/the-entrepreneurship-network/)
-- 👨‍💻 All of my projects are available at: [https://github.com/mangesh123vispute](https://github.com/mangesh123vispute)
-- 💬 Ask me about: **Django, DRF, Python, Integration of LLM using LangChain,Full Stack Development**
-- 📫 How to reach me: **mangesh2003visptue@gmail.com**
+- 🌱 I’m currently learning: **Data Structures and Algorithms (DSA).**   
+- 🤝 Experiences:  
+  - [Full Stack Developer Intern at The Entrepreneurship Network](https://www.linkedin.com/company/the-entrepreneurship-network/), leading a team to optimize web applications using the MERN stack.  
+  - [Python/Django Developer Intern at SKXYWTF](https://www.linkedin.com/company/skxywtf/), developing financial APIs and enhancing website functionality.  
+- 👨‍💻 My projects are available at: [https://github.com/mangesh123vispute](https://github.com/mangesh123vispute)  
+  - **AlumniHub:** Live alumni management platform with 10,000+ users, deployed for my college.  
+  - **Aptitude Exam App:** A Django-based exam system for college assessments.  
+- 💬 Ask me about: **Django, DRF, Python, Full Stack Development (MERN).**  
+- 📫 How to reach me: **mangesh2003vispute@gmail.com**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
