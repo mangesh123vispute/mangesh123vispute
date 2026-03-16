@@ -19,7 +19,6 @@ Backend-focused developer interested in scalable web systems, API performance op
 
 - 💼 **Associate Developer at NetworcX**
 - 🔧 Working on **.NET APIs, Angular applications, and backend performance optimization**
-- 📈 Improved **API & frontend loading time from 6s → 2s**
 - 🧠 Interested in **backend engineering, scalable systems, and API design**
 - 🌱 Currently exploring **Agentic AI and advanced backend architecture**
 
