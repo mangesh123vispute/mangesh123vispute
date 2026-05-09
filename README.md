@@ -71,16 +71,3 @@ Full-stack alumni management platform connecting students, alumni, and administr
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mangesh123vispute&show_icons=true&theme=default&hide_border=true" alt="Mangesh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangesh123vispute&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-  <i>Open to AI engineering roles, full-stack opportunities, and interesting collaborations.</i><br/>
-  <a href="mailto:mangesh2003vispute@gmail.com">Let's connect →</a>
-</p>
