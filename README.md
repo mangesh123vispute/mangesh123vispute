@@ -1,11 +1,3 @@
-<p align="center">
-<img
-  src="https://media.licdn.com/dms/image/v2/D5616AQEovZDKQcFkXg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1713753982209?e=1737590400&v=beta&t=MbRxgafnapO6rL2Hv5ZXB8ixjgBT6zVAzRSDLYZiZSs"
-  alt="Banner"
-  style="width: 100%; max-width: 900px; height: auto; border-radius: 15px;"
-/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Mangesh Vispute</h1>
 
 <h3 align="center">Full-Stack Developer · AI Systems Builder · LangGraph & Multi-Agent Orchestration</h3>
