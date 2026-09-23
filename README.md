@@ -8,32 +8,6 @@
   <a href="https://github.com/mangesh123vispute">🐙 GitHub</a>
 </p>
 
----
-
-### 🚀 About Me
-
-- 💼 **Associate Developer at NetworcX** — building AI-driven workflows in the logistics domain
-- 🤖 Built **Smart Inbox** — an LangGraph-powered email processing system reducing manual effort by **60–70%**
-- ⚡ Optimized backend systems cutting response time from **6s → 2s (66% improvement)**
-- 🧠 Passionate about **Agentic AI, Multi-Agent Orchestration, and RAG pipelines**
-- 🌱 Currently deepening expertise in **LangGraph, Vector Databases, and AI System Design**
-
----
-
-### 🏗️ Experience
-
-**Associate Developer | NetworcX** *(June 2025 – Present)*
-- Built **Smart Inbox** — AI-powered email processing system using **LangGraph/Langflow** that converts emails into leads, quotations, and service cases with human-in-the-loop validation, reducing manual effort by **60–70%**
-- Developed **AI-powered dashboards (POC)** for win/loss analysis with chatbot integration — users query insights conversationally with country-level, ratio, and pie chart visualizations
-- Created multiple **AI POCs** accelerating adoption of AI-driven workflows across business processes
-- Optimized **.NET & EF Core** backend workflows, reducing end-to-end response time from **6s → 2s (66% improvement)**
-
-**Full Stack Developer Intern | The Entrepreneurship Network** *(Apr 2024 – Jul 2024)*
-- Built and optimized web application features using **React.js and Express.js** in a MERN stack environment
-- Collaborated with cross-functional team to design and deliver scalable features
-
----
-
 ### 🧩 Projects
 
 #### 🤖 [Groq RAG Streamlit](https://github.com/mangesh123vispute/groq-rag-streamlit)
