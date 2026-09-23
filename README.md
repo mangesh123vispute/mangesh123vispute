@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mangesh Vispute</h1>
 
-<h3 align="center">Full-Stack Developer · AI Systems Builder · LangGraph & Multi-Agent Orchestration</h3>
-
 <p align="center">
   <a href="mailto:mangesh2003vispute@gmail.com">📧 Email</a> •
   <a href="https://linkedin.com/in/mangesh-vispute">💼 LinkedIn</a> •
